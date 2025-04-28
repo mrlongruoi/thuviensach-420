@@ -4,8 +4,6 @@ interface Book {
     author: string;
     genre: string;
     rating: number;
-    color: string;
-    cover: string;
     totalCopies: number;
     availableCopies: number;
     description: string;
